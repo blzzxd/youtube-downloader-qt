@@ -11,7 +11,7 @@ Windows.
 ### Downloaded video directory
 By default downloaded videos stores in `C:/downloaded-videos/`. Of course you can change it in `main.py` file. `video_path = '<your path>'`
 
-## Install
+## Install latest version
 https://github.com/blzzxd/youtube-downloader-qt/releases/download/v1.0/youtube-downloader-qt-setup.zip
 
 ## Clone
