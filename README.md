@@ -5,7 +5,7 @@ Easy download videos from YouTube with youtube-downloader-qt
 I created this program for me to fastly download videos from youtube without searching weird downloader sites.
 
 ### Platform
-Works on Windows. About GNU/Linux - I tested it on Linux. It runs with admin permissions, because by default downloaded videos saving in root folder. You can change this in `main.py` file. Other thing, I don't tested `Open Folder` feature, maybe it will work or not. Anyways, you can delete `os.system(f'start {os.path.realpath(video_path)}')` lines. Maybe it should work.
+Works on Windows. About GNU/Linux - I tested it on Linux. It runs with admin permissions, because by default downloaded videos saving in root folder. You can change this in `main.py` file. Other thing, I don't tested `Open Folder` feature, maybe it will work or not. Anyways, you can delete `os.system(f'start {os.path.realpath(video_path)}')` lines. Maybe it will work.
 
 ### Downloaded video directory
 By default downloaded videos stores in `C:/downloaded-videos/`. Of course you can change it in `main.py` file. `video_path = '<your path>'`
