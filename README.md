@@ -1,5 +1,6 @@
 # youtube-downloader-qt
 Easy download videos from YouTube with youtube-downloader-qt
+![](https://github.com/blzzxd/youtube-downloader-qt/blob/master/image.png?raw=true)
 
 ## About
 I created this program for me to fastly download videos from youtube without searching weird downloader sites.
