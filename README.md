@@ -10,6 +10,11 @@ Works on Windows. About GNU/Linux - I tested it on Linux. It runs with admin per
 ### Downloaded video directory
 By default downloaded videos stores in `C:/downloaded-videos/`. Of course you can change it in `main.py` file. `video_path = '<your path>'`
 
+## Clone
+```bash
+git clone https://github.com/blzzxd/youtube-downloader-qt
+```
+
 ## Used libraries
 This program using only 2 libraries. `pyqt6` and `pytube` and some built-in libraries
 
