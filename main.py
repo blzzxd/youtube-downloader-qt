@@ -79,8 +79,7 @@ def download():
 
 
 def on_convert_button_click():
-    thread = Thread(target=download)
-    thread.start()
+    download()
 
 
 # connections
